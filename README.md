@@ -1,10 +1,10 @@
 # 1. Team members
 
-| Name                  | Matr.Nr.  | E-Mail                    |
-| --------------------- | --------- | ------------------------- |
-| Manuel Mahringer      | K11816360 | k11816360@students.jku.at |
-| Lukas Seifriedsberger | K11816320 | k11816320@students.jku.at |
-| Michael Duschek       | K11844534 | k11844534@students.jku.at |
+| Name                  |
+| --------------------- |
+| Manuel Mahringer      |
+| Lukas Seifriedsberger |
+| Michael Duschek       |
 
 # 2. Responsibilities
 | Feature                        | Responsible                |
